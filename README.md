@@ -1,2 +1,2 @@
-# Me-Livrando-da-Madi-o-
+# Me Livrando da maldição!
 Criando meu primeiro "Hello Wolrd" no C#

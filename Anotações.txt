@@ -1,0 +1,3 @@
+Reza a Lenda que temos que coda o nosso primeiro programa com a frase: "Olá Mundo!!!" para "Nos livrar da Maldição de não consegir aprender tal linguagem.
+logo, apra nçao correr o risco... vamos lá.
+ Hello World, C#!!

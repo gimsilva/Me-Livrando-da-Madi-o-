@@ -1,0 +1,14 @@
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\bin\Debug\netcoreapp3.1\Olá Mundo.exe
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\bin\Debug\netcoreapp3.1\Olá Mundo.deps.json
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\bin\Debug\netcoreapp3.1\Olá Mundo.runtimeconfig.json
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\bin\Debug\netcoreapp3.1\Olá Mundo.runtimeconfig.dev.json
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\bin\Debug\netcoreapp3.1\Olá Mundo.dll
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\bin\Debug\netcoreapp3.1\Olá Mundo.pdb
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.csproj.AssemblyReference.cache
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.AssemblyInfoInputs.cache
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.AssemblyInfo.cs
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.csproj.CoreCompileInputs.cache
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.dll
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.pdb
+D:\CURSOS\DIO\GIT\Me Livrando da maldição!! Lets Go C#\Olá Mundo\Olá Mundo\obj\Debug\netcoreapp3.1\Olá Mundo.genruntimeconfig.cache
